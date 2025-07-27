@@ -97,9 +97,9 @@ Este repositório é pessoal para fins de estudo. Mas sugestões são bem-vindas
 | Módulo | Descrição | Status |
 |--------|-----------|--------|
 | 1      | Introdução e configuração do ambiente | ✅ |
-| 2      | Criação do backend com Spring Boot    | ✅ |
-| 3      | Construção do frontend com Angular    | ✅ |
-| 4      | Integração frontend + backend         | 🔄 |
+| 2      | Criação do backend com Spring Boot    | 🔲 |
+| 3      | Construção do frontend com Angular    | 🔄 |
+| 4      | Integração frontend + backend         | 🔲 |
 | 5      | Segurança com JWT                     | 🔲 |
 | 6      | Deploy e considerações finais         | 🔲 |
 
